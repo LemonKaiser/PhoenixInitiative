@@ -1,0 +1,1093 @@
+{
+  "version": 1,
+  "license": "CC BY-NC-ND 3.0",
+  "copyright": "Sprites by TheGypsyBaron DS:701266770429739008, xenoborg sprites, created and modified by Samuka-C (github).",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "clown",
+      "directions": 4
+    },
+    {
+      "name": "clown_e",
+      "directions": 4
+    },
+    {
+      "name": "clown_e_r",
+      "directions": 4
+    },
+    {
+      "name": "clown_l",
+      "directions": 4
+    },
+    {
+      "name": "derelict",
+      "directions": 4
+    },
+    {
+      "name": "derelict_e",
+      "directions": 4
+    },
+    {
+      "name": "derelict_e_r",
+      "directions": 4
+    },
+    {
+      "name": "derelict_icon",
+      "directions": 1
+    },
+    {
+      "name": "derelict_l",
+      "directions": 4
+    },
+    {
+      "name": "engineer",
+      "directions": 4
+    },
+    {
+      "name": "engineer_e",
+      "directions": 4
+    },
+    {
+      "name": "engineer_e_r",
+      "directions": 4
+    },
+    {
+      "name": "engineer_l",
+      "directions": 4
+    },
+    {
+      "name": "janitor",
+      "directions": 4
+    },
+    {
+      "name": "janitor_moving",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "janitor_e",
+      "directions": 4
+    },
+    {
+      "name": "janitor_e_r",
+      "directions": 4
+    },
+    {
+      "name": "janitor_l",
+      "directions": 4
+    },
+    {
+      "name": "medical",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "medical_moving",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "medical_e",
+      "directions": 4
+    },
+    {
+      "name": "medical_e_r",
+      "directions": 4
+    },
+    {
+      "name": "medical_l",
+      "directions": 4
+    },
+    {
+      "name": "miner",
+      "directions": 4
+    },
+    {
+      "name": "miner_moving",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "miner_e",
+      "directions": 4
+    },
+    {
+      "name": "miner_e_r",
+      "directions": 4
+    },
+    {
+      "name": "miner_l",
+      "directions": 4
+    },
+    {
+      "name": "robot",
+      "directions": 4
+    },
+    {
+      "name": "robot_e",
+      "directions": 4
+    },
+    {
+      "name": "robot_e_r",
+      "directions": 4
+    },
+    {
+      "name": "robot_l",
+      "directions": 4
+    },
+    {
+      "name": "peace",
+      "directions": 4
+    },
+    {
+      "name": "peace_e",
+      "directions": 4
+    },
+    {
+      "name": "peace_e_r",
+      "directions": 4
+    },
+    {
+      "name": "peace_l",
+      "directions": 4
+    },
+    {
+      "name": "service",
+      "directions": 4
+    },
+    {
+      "name": "service_e",
+      "directions": 4
+    },
+    {
+      "name": "service_e_r",
+      "directions": 4
+    },
+    {
+      "name": "service_l",
+      "directions": 4
+    },
+    {
+      "name": "synd_sec",
+      "directions": 4
+    },
+    {
+      "name": "synd_sec_e",
+      "directions": 4
+    },
+    {
+      "name": "synd_sec_l",
+      "directions": 4
+    },
+    {
+      "name": "synd_medical",
+      "directions": 4
+    },
+    {
+      "name": "synd_medical_l",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "synd_medical_e",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "synd_engi",
+      "directions": 4
+    },
+    {
+      "name": "synd_engi_e",
+      "directions": 4
+    },
+    {
+      "name": "synd_engi_l",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_heavy",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_heavy_e",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_heavy_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_heavy_l",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_scout",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_scout_l",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_scout_e",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_scout_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_engi",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_engi_e",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_engi_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_engi_l",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_stealth",
+      "directions": 4
+    },
+    {
+      "name": "xenoborg_stealth_e",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_stealth_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "xenoborg_stealth_l",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "kerfusmaid",
+      "directions": 4
+    },
+    {
+      "name": "kerfusmaid_e",
+      "directions": 4,
+      "delays": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "name": "kerfusmaid_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "name": "kerfusmaid_l",
+      "directions": 4
+    },
+    {
+      "name": "kerfusnoerp",
+      "directions": 4
+    },
+    {
+      "name": "kerfusnoerp_e",
+      "directions": 4
+    },
+    {
+      "name": "kerfusnoerp_e_r",
+      "directions": 4
+    },
+    {
+      "name": "kerfusnoerp_l",
+      "directions": 4
+    },
+    {
+      "name": "kerfuswhite",
+      "directions": 4
+    },
+    {
+      "name": "kerfuswhite_e",
+      "directions": 4,
+      "delays": [
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "name": "kerfuswhite_e_r",
+      "directions": 4,
+      "delays": [
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "name": "kerfuswhite_l",
+      "directions": 4
+    },
+    {
+      "name": "kerfusyellow",
+      "directions": 4
+    },
+    {
+      "name": "kerfusyellow_e",
+      "directions": 4
+    },
+    {
+      "name": "kerfusyellow_e_r",
+      "directions": 4
+    },
+    {
+      "name": "kerfusyellow_l",
+      "directions": 4
+    },
+    {
+      "name": "sexybar",
+      "directions": 4
+    },
+    {
+      "name": "sexybar_e",
+      "directions": 4
+    },
+    {
+      "name": "sexybar_e_r",
+      "directions": 4
+    },
+    {
+      "name": "sexybar_l",
+      "directions": 4
+    },
+    {
+      "name": "pneumaj",
+      "directions": 4
+    },
+    {
+      "name": "pneumaj_e",
+      "directions": 4
+    },
+    {
+      "name": "pneumaj_e_r",
+      "directions": 4
+    },
+    {
+      "name": "pneumaj_l",
+      "directions": 4
+    },
+    {
+      "name": "pneumas",
+      "directions": 4
+    },
+    {
+      "name": "pneumas_e",
+      "directions": 4
+    },
+    {
+      "name": "pneumas_e_r",
+      "directions": 4
+    },
+    {
+      "name": "pneumas_l",
+      "directions": 4
+    },
+    {
+      "name": "spiderb",
+      "directions": 4
+    },
+    {
+      "name": "spiderb_e",
+      "directions": 4
+    },
+    {
+      "name": "spiderb_e_r",
+      "directions": 4
+    },
+    {
+      "name": "spiderb_l",
+      "directions": 4
+    },
+    {
+      "name": "spiderm",
+      "directions": 4
+    },
+    {
+      "name": "spiderm_e",
+      "directions": 4
+    },
+    {
+      "name": "spiderm_e_r",
+      "directions": 4
+    },
+    {
+      "name": "spiderm_l",
+      "directions": 4
+    },
+    {
+      "name": "spiders",
+      "directions": 4
+    },
+    {
+      "name": "spiders_e",
+      "directions": 4
+    },
+    {
+      "name": "spiders_e_r",
+      "directions": 4
+    },
+    {
+      "name": "spiders_l",
+      "directions": 4
+    },
+    {
+      "name": "spidery",
+      "directions": 4
+    },
+    {
+      "name": "spidery_e",
+      "directions": 4
+    },
+    {
+      "name": "spidery_e_r",
+      "directions": 4
+    },
+    {
+      "name": "spidery_l",
+      "directions": 4
+    },
+    {
+      "name": "medicalg",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "medicalg_l",
+      "directions": 4
+    },
+    {
+      "name": "medicals",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "medicals_l",
+      "directions": 4
+    },
+    {
+      "name": "medicalv",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ],
+        [
+          0.1,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "medicalv_l",
+      "directions": 4
+    }
+  ]
+}
