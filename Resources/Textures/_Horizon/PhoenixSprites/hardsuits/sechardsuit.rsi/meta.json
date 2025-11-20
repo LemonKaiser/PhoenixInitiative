@@ -1,7 +1,9 @@
 {
   "version": 1,
-  "license": "Karamba",
-  "copyright": "Karamba",
+  "license": "CC BY-NC-ND-4.0",
+    "copyright": [
+      "Karamba"
+    ],
   "size": {
     "x": 32,
     "y": 32

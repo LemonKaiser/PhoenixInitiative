@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "license": "Karamba",
   "copyright": "Karamba",
   "size": {
     "x": 32,
@@ -11,7 +10,7 @@
       "name": "icon"
     },
     {
-      "name": "equipped-OUTERCLOTHING",
+      "name": "equipped-INNERCLOTHING",
       "directions": 4
     },
     {

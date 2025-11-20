@@ -8,18 +8,10 @@
     },
     "states": [
         {
-            "name": "equipped-FEET",
-            "directions": 4
-        },
-        {
-            "name": "on-equipped-FEET",
-            "directions": 4
-        },
-        {
             "name": "icon"
         },
         {
-            "name": "icon-on"
+            "name": "bolt-open"
         },
         {
             "name": "inhand-left",
@@ -30,11 +22,11 @@
             "directions": 4
         },
         {
-            "name": "on-inhand-left",
+            "name": "equipped-BELT",
             "directions": 4
         },
-        {
-            "name": "on-inhand-right",
+		{
+            "name": "equipped-SUITSTORAGE",
             "directions": 4
         }
     ]
